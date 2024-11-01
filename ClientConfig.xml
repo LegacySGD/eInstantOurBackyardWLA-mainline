@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Our Backyard WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="OurBackyard" enableFreeSpin="N" clientversion="1.0" gameId="300-2117-0" />
+	<GameClient name="Our Backyard WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="OurBackyard" enableFreeSpin="N" clientversion="1.0" gameId="300-2117-0" />
+	<GameClient name="Our Backyard WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="OurBackyard" enableFreeSpin="N" clientversion="1.0" gameId="300-2117-0" />
+</ClientConfig>
